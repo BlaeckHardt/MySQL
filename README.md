@@ -8,6 +8,6 @@
 |    2    |xxxxxxxxx|[Permalink]()|
 
 
-![Imamgem de um cheems promgramador trismte](https://www.facebook.com/photo/?fbid=642545160841998&set=a.639099847853196)
+![Imamgem de um cheems promgramador trismte](https://scontent.fmex27-1.fna.fbcdn.net/v/t39.30808-6/310435053_642373174192530_5311301394435828715_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=IXNLWQmXkwcAX-990NW&_nc_ht=scontent.fmex27-1.fna&oh=00_AT_LbQueT5zem0lbK1mNoN6Ub0ug3hmynlz_95nwizqKGQ&oe=63462049)
 
 Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInformatico/blob/master/README.md) (.md)
