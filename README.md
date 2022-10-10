@@ -12,7 +12,7 @@
 |    6    |Seleccionar columnas|[Permalink](https://github.com/BlaeckHardt/MySQL/blob/75aa79f222efcd11021b23ebf19329d00f543f68/Seleccionar%20columnas.md)|
 |    7    |Join|[Permalink](https://github.com/BlaeckHardt/MySQL/blob/4d8e3cd62480f8e948151e8294fac4dc0b5eba24/Join.md)|
 |    8    |Comandos finales|[Permalink](https://github.com/BlaeckHardt/MySQL/blob/231aef51a2314c88bef54589de8f12a7d6b5b607/Comandos%20finales.md)|
-|    9    |Diagramas entidad relacion|[Permalink]()|
+|    9    |Diagramas entidad relacion|[Permalink](https://github.com/BlaeckHardt/MySQL/blob/e86e7a811a487c26347893fba5dc76b84760d7f3/Diagramas%20entidad%20relacion.md)|
 
 <h3 align="center"><img src="https://scontent.fmex27-1.fna.fbcdn.net/v/t39.30808-6/310435053_642373174192530_5311301394435828715_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=IXNLWQmXkwcAX-990NW&_nc_ht=scontent.fmex27-1.fna&oh=00_AT_LbQueT5zem0lbK1mNoN6Ub0ug3hmynlz_95nwizqKGQ&oe=63462049" alt="python" width="400" height="400"/>
 
